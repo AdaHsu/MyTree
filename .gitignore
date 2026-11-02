@@ -4,7 +4,10 @@ obj/
 *.exe
 *.pdb
 
-# Local runtime config / exports
+# Local runtime config / language / exports
 MyTree.ini
 my-tree.ini
+*.lang
+clean_*.txt
+clean_*.bat
 *.log
