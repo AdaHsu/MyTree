@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.pdb
+
+# Local runtime config / exports
+MyTree.ini
+my-tree.ini
+*.log
